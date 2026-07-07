@@ -1,0 +1,41 @@
+{
+  "identifier" : "CoverageappStoreKit",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "coverageapp.pro.monthly.group",
+      "localizations" : [],
+      "name" : "Coverageapp Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "coverageapp.pro.monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlock Coverage-history stats per employee",
+              "displayName" : "Coverageapp Pro",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.coverageapp.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Coverageapp Pro Monthly",
+          "subscriptionGroupID" : "coverageapp.pro.monthly.group",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
