@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: CoverageappTests
-      - path: Coverageapp.storekit
     dependencies:
       - target: Coverageapp
     settings:
